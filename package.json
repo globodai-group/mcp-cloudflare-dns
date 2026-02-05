@@ -1,5 +1,5 @@
 {
-  "name": "@artik0din/mcp-cloudflare-dns",
+  "name": "globodai-mcp-cloudflare-dns",
   "version": "1.0.0",
   "description": "Cloudflare DNS MCP server for managing zones and records via API",
   "main": "dist/index.js",
@@ -27,12 +27,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/artik0din/mcp-cloudflare-dns.git"
+    "url": "https://github.com/globodai-group/mcp-cloudflare-dns.git"
   },
   "bugs": {
-    "url": "https://github.com/artik0din/mcp-cloudflare-dns/issues"
+    "url": "https://github.com/globodai-group/mcp-cloudflare-dns/issues"
   },
-  "homepage": "https://github.com/artik0din/mcp-cloudflare-dns#readme",
+  "homepage": "https://github.com/globodai-group/mcp-cloudflare-dns#readme",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.0.2"
   },
